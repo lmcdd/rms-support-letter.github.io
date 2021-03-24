@@ -144,13 +144,9 @@ Signed,
 
 [Vladislav Glinsky](https://github.com/cl0ne)
 
-[Boris P](https://github.com/control-panel)
-
 [Vitaly Ostrosablin](https://github.com/tmp6154)
 
 [Sergei Shilin](https://github.com/GutsyHeart)
-
-[Yuriy Chumak](https://github.com/yuriy-chumak)
 
 [киберджин](https://github.com/codefather-labs)
 
@@ -159,3 +155,5 @@ Signed,
 [unti1x](https://github.com/unti1x)
 
 [Daniel](https://github.com/Zuzuk-null)
+
+[Dmitry Derbin](https://github.com/lmcdd)
